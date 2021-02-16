@@ -1,4 +1,4 @@
-# traffic-server-proxy
+# trafficserver-proxy
 Auto config for Apache Traffic Server as forward proxy
 
 # NOTICE
